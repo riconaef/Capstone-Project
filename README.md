@@ -18,7 +18,7 @@ Follwoing libraries are used:
 - matplotlib
 - seaborn
 - sklearn
-- pickle, 
+- pickle
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -34,8 +34,7 @@ Part2: Supervised learning.ipynb
 
 The first file involves the Investigation/Cleaning of the data and the Unsupervised Learning steps.
 
-The second file describe the 
-
+The second file describes the Supervised Learning procedure and prepares the file for the kaggle competition.
 
 ## Results<a name="results"></a>
 
