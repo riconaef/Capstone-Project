@@ -13,7 +13,12 @@ The code should run in Python 3 with no problems.
 
 Follwoing libraries are used:
 
-numpy, pandas, matplotlib, seaborn, sklearn, pickle, 
+- numpy
+- pandas
+- matplotlib
+- seaborn
+- sklearn
+- pickle, 
 
 ## Project Motivation<a name="motivation"></a>
 
