@@ -28,13 +28,13 @@ In this project, demographic data for customers of a mail-order sales company in
 
 The analysis is separated into two jupyter notebook files:
 
-Part1: Unsupervised learning.ipynb
+- Part1: Unsupervised learning.ipynb
 
-Part2: Supervised learning.ipynb
+  The first file involves the Investigation/Cleaning of the data and the Unsupervised Learning steps.
 
-The first file involves the Investigation/Cleaning of the data and the Unsupervised Learning steps.
+- Part2: Supervised learning.ipynb
 
-The second file describes the Supervised Learning procedure and prepares the file for the kaggle competition.
+  The second file describes the Supervised Learning procedure and prepares the file for the kaggle competition.
 
 ## Results<a name="results"></a>
 
