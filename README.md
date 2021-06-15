@@ -39,6 +39,7 @@ The analysis is separated into two jupyter notebook files:
 ## Results<a name="results"></a>
 
 The main findings of the analyzis were that customers of the company tend to be good earners and live in areas with small housholds.
+The detailed results can also be viewed here: 
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
