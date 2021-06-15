@@ -15,10 +15,10 @@ Analysing a dataset and make recommendations to users with methods such as colab
 The code should run in Python 3 with no problems. No additional packages are needed. 
 
 Follwoing are the used libraries:
- - numpy
- - pandas
- - seaborn
- - matplotlib.pyplot
+numpy, pandas, matplotlib, seaborn, sklearn, pickle, 
+
+from collections import Counter
+
 
 ## Project Motivation<a name="motivation"></a>
 
