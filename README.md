@@ -1,8 +1,5 @@
 # Capstone-Project
 
-Analysing a dataset and make recommendations to users with methods such as colaborative filtering (nearest neighbour, SVD) and content based filtering.
-
-
 ### Table of Contents
 
 1. [Project Motivation](#motivation)
@@ -12,27 +9,19 @@ Analysing a dataset and make recommendations to users with methods such as colab
 
 ## Installation <a name="installation"></a>
 
-The code should run in Python 3 with no problems. No additional packages are needed. 
+The code should run in Python 3 with no problems.
 
-Follwoing are the used libraries:
+Follwoing libraries are used:
 numpy, pandas, matplotlib, seaborn, sklearn, pickle, 
-
-from collections import Counter
-
 
 ## Project Motivation<a name="motivation"></a>
 
-In this project I set up a different recommendation algorithms. The user-item matrix was created using both dataframes.  
-
-    - Collaborative Filtering was used with the method of the nearest neighbors. 
-    - Content Based Recommendations
-    - Matrix Factorization (SVD)
+In this project, demographic data for customers of a mail-order sales company in Germany is analyzed, comparing it against demographics information of the general population. Unsupervised and Supervised learning techniques are used to perform customer segmentation, to find out the core customer base of the company. The data which is used here has been provided by the company Bertelsmann Arvato Analytics.
 
 ## File Descriptions <a name="files"></a>
 
-The used data consists of two dataframes and can be downloaded here.
+The analysis is separated into two jupyter notebook files:
 
-The steps of the analysis can be viewed in the Crisp_DM_history.ipynb file. There is also a single jupyter file for each question to generate the desired plots.
 
 ## Results<a name="results"></a>
 
