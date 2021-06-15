@@ -43,4 +43,4 @@ The detailed results can also be viewed here:
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
-I thank Arvato-Bertelsman for offering the data. You can also use the code here and run the model by yourself. Maybe you even have an idea for adjustments or improvements. 
+I thank Bertelsmann Arvato Analytics for offering the data. You can also use the code here and run the model by yourself. Maybe you even have an idea for adjustments or improvements. 
