@@ -1,4 +1,4 @@
-# Capstone-Project: Customer Segmentation report
+# Customer Segmentation report Capstone-Project
 
 ### Table of Contents
 
